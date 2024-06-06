@@ -3,7 +3,7 @@
 title: J. Andrew Casey-Clyde
 
 # Name pronunciation (optional)
-name_pronunciation: Andrew Casey Clyde
+# name_pronunciation: Andrew Casey Clyde
 
 # Full name (for SEO)
 first_name: J. Andrew
