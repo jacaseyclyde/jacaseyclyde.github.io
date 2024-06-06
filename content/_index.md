@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a PhD candidate in the Department of Physics at the University of Connecticut, and visiting researcher in the Departmment of Physics at Yale University. I research supermassive black hole binaries, dual AGN, and binary quasars.
+        
+        I use electromagnetic and gravitational wave observations to develop self-consistent, multi-messenger models of supermassive black hole populations.
         
         Please reach out to collaborate 😃
+
+        Website under construction as of June 6, 2024.
     design:
       columns: '1'
   - block: collection
