@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Assistant/PhD Candidate/Visiting Assistant in Research
+role: PhD Candidate/Visiting Assistant in Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
