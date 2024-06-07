@@ -144,7 +144,6 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        # icon: code-bracket
         icon: cpu-chip
       - name: Data Science
         description: ''
@@ -153,7 +152,7 @@ skills:
       - name: Astrophysics
         description: ''
         percent: 100
-        icon: custom/gravity_waves_icon
+        icon: custom/gravity_waves
       # - name: UNIX Environments
       #   description: ''
       #   percent: 80
