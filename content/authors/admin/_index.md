@@ -59,10 +59,12 @@ education:
     date_start: 2019-08-26
     date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Chiara Mingarelli](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+     I have proposed a thesis placing multi-messenger constraints on supermassive black hole binary populations. Supervised by [Prof Chiara Mingarelli](https://www.chiaramingarelli.com/). 
+    #  I have given oral presentations at 3 AAS meetings.
+    I have three lead author projects that have been either published or submitted, including one project which I lead for the NANOGrav collaboration.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MS Physics/Computational Physics
     institution: San José State University
     date_start: 2016-09-07
