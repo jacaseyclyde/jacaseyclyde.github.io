@@ -149,26 +149,30 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: UNIX Environments
+      - name: Astrophysics
         description: ''
-        percent: 80
-        icon: terminal
-      - name: SLURM
-        description: ''
-        percent: 40
-        icon: cpu-chip
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-      - name: C++
-        description: ''
-        percent: 40
-        icon: code-bracket
-      - name: C
-        description: ''
-        percent: 40
-        icon: code-bracket
+        percent: 100
+        icon: custom/gravity_waves_icon
+      # - name: UNIX Environments
+      #   description: ''
+      #   percent: 80
+      #   icon: terminal
+      # - name: SLURM
+      #   description: ''
+      #   percent: 40
+      #   icon: cpu-chip
+      # - name: SQL
+      #   description: ''
+      #   percent: 40
+      #   icon: circle-stack
+      # - name: C++
+      #   description: ''
+      #   percent: 40
+      #   icon: code-bracket
+      # - name: C
+      #   description: ''
+      #   percent: 40
+      #   icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
