@@ -36,12 +36,6 @@ abstract: The nanohertz gravitational wave background (GWB) is believed to be do
   the cosmic population of SMBHBs, as well as their connections to quasars and galaxy
   mergers.
 tags:
-- '1305'
-- '1319'
-- '1663'
-- '675'
-- '676'
-- '677'
 - Astrophysics - Astrophysics of Galaxies
 - Astrophysics - Cosmology and Nongalactic Astrophysics
 - Astrophysics - High Energy Astrophysical Phenomena
