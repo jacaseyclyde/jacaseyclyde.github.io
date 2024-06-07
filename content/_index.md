@@ -40,8 +40,6 @@ sections:
         I use electromagnetic and gravitational wave observations to develop self-consistent, multi-messenger models of supermassive black hole populations.
         
         Please reach out to collaborate 😃
-
-        Website under construction as of June 6, 2024.
     design:
       columns: '1'
   - block: collection
