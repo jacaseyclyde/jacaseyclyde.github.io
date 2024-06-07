@@ -92,8 +92,8 @@ education:
 #      - Stellar Structure & Evolution
 work:
   - position: Visiting Assistant in Research
-    company_name: Yale University
-    company_url: ''
+    company_name: Department of Physics, Yale University
+    company_url: https://physics.yale.edu/
     company_logo: ''
     date_start: 2023-08-31
     date_end: ''
@@ -103,8 +103,8 @@ work:
       - Developing dual AGN models tied to the gravitational wave background and observable dual AGN
       - Lead NANOGrav search for discreteness in the gravitational wave background's spectrum
   - position: Graduate Assistant
-    company_name: University of Connecticut
-    company_url: ''
+    company_name: Department of Physics, University of Connecticut
+    company_url: https://physics.uconn.edu/
     company_logo: ''
     date_start: 2019-08-26
     date_end: 2024-01-06
@@ -115,8 +115,8 @@ work:
       - Developed quasar-based model of SMBHB populations
       - Taught undergraduate labs in mechanics, electromagnetism, and for non-STEM majors
   - position: Graduate Research and Teaching Associate 
-    company_name: San José State University
-    company_url: ''
+    company_name: Department of Physics and Astronomy, San José State University
+    company_url: https://www.sjsu.edu/physics/
     company_logo: ''
     date_start: 2016-09-07
     date_end: 2019-08-16
@@ -124,6 +124,15 @@ work:
       Responsibilities include:
       - Developed model of gas kinematics in the central 5 pc around Sagittarius A*
       - Taught undergraduate labs in mechanics and electromagnetism
+  - position: Software Engineer 
+    company_name: Salient Process, Inc.
+    company_url: https://salientprocess.com/
+    company_logo: ''
+    date_start: 2015-02-01
+    date_end: 2016-09-01
+    summary: |
+      Responsibilities include:
+      - Developed and maintained internal and client-facing software
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
