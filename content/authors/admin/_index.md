@@ -189,7 +189,7 @@ skills:
       - name: Tabletop RPGs
         description: ''
         percent: 80
-        icon: dragon
+        icon: custom/dragon
 
 languages:
   - name: English
