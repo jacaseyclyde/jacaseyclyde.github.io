@@ -17,11 +17,11 @@ abstract: 'Supermassive black holes (SMBHs) are found in the centers of massive 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-01-09T17:00:00Z'
-date_end: '2024-01-09T17:10:00Z'
+date: '2024-01-09T11:00:00Z'
+date_end: '2024-01-09T11:10:00Z'
 all_day: false
 
-publishDate: '2023-01-09T17:00:00Z'
+publishDate: '2023-01-09T11:00:00Z'
 
 authors:
   - admin
