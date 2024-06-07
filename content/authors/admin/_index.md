@@ -59,9 +59,8 @@ education:
     date_start: 2019-08-26
     date_end: ''
     summary: |
-     I have proposed a thesis placing multi-messenger constraints on supermassive black hole binary populations. Supervised by [Prof Chiara Mingarelli](https://www.chiaramingarelli.com/). 
+     I have proposed a thesis placing multi-messenger constraints on supermassive black hole binary populations. Supervised by [Prof Chiara Mingarelli](https://www.chiaramingarelli.com/). I have three lead author projects that have been either published or submitted, including one project which I lead for the NANOGrav collaboration.
     #  I have given oral presentations at 3 AAS meetings.
-    I have three lead author projects that have been either published or submitted, including one project which I lead for the NANOGrav collaboration.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
