@@ -144,7 +144,8 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        # icon: code-bracket
+        icon: cpu-chip
       - name: Data Science
         description: ''
         percent: 100
