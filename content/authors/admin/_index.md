@@ -152,7 +152,8 @@ skills:
       - name: Astrophysics
         description: ''
         percent: 100
-        icon: custom/gravity_waves
+        # icon: custom/gravity_waves
+        icon: satellite-dish
       # - name: UNIX Environments
       #   description: ''
       #   percent: 80
