@@ -61,7 +61,7 @@ education:
     summary: |
       GPA: 3.971/4.000
 
-      I have proposed a thesis placing multi-messenger constraints on supermassive black hole binary populations. Supervised by [Prof Chiara Mingarelli](https://www.chiaramingarelli.com/). I have three lead author projects that have been either published or submitted, including one project which I lead for the NANOGrav collaboration.
+      I have proposed a thesis placing multi-messenger constraints on supermassive black hole binary populations. Supervised by Prof. Chiara Mingarelli [](https://www.chiaramingarelli.com/). I have three lead author projects that have been either published or submitted, including one project which I lead for the NANOGrav collaboration.
     #  I have given oral presentations at 3 AAS meetings.
     # button:
     #   text: 'Read Thesis'
@@ -101,7 +101,7 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Predicting gravitational wave backgroudn anisotropy
+      - Predicting gravitational wave background anisotropy
       - Developing dual AGN models tied to the gravitational wave background and observable dual AGN
       - Lead NANOGrav search for discreteness in the gravitational wave background's spectrum
   - position: Graduate Assistant
