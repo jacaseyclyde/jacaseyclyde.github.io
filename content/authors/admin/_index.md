@@ -233,4 +233,5 @@ awards:
 
 ## About Me
 
-J. Andrew Casey-Clyde is a doctoral candidate at the University of Connecticut, and visiting researcher at Yale University, who is developing multimessenger models of supermassive black hole binaries. His models combine information from the nanohertz gravitational wave background and quasars to constrain their relationship. He is also developing models of dual AGN populations tied to supermassive black hole binary merger rates. He is interested in developing self-consistent models of supermassive black hole growth and evolution.
+I am a Ph.D. Research Assistant with 8+ years of data analysis, modeling, and research experience in astrophysics.
+I am the lead author of 3 scientific publications, including for a collaboration of 100+ scientists, and a co-author of 17+ research papers and two white papers. I have presented novel research at 27+ scientific meetings, conferences, and seminars, and have given 5 general public talkd for non-technical audiences. I have additionally taught multiple multiple lab courses for students in engineering, bio-medical sciences, and non-STEM majors. I also regularly manage 10+ undergraduate tutors in quantitative subjects such as math, physics, statistics, and chemistry.
