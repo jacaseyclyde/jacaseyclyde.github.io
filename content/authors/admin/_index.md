@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate/Visiting Assistant in Research
+role: Graduate Assistant/Visiting Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,7 +33,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:andrew.casey-clyde@uconn.edu'
+    url: 'mailto:jacaseyclyde@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/jacaseyclyde
@@ -49,49 +49,63 @@ profiles:
     url: https://orcid.org/0000-0002-5557-4007
 
 interests:
-  - Supermassive Black Holes
-  - Gravitational Waves
-  - Multi-messenger Astrophysics
+  - Supermassive black holes
+  - Multi-messenger astrophysics
+  - Data science
+  - Bayesian analysis
+  - Predictive modeling
 
 education:
-  - area: PhD Physics
+  - area: Ph.D. Physics
     institution: University of Connecticut
     date_start: 2019-08-26
     date_end: ''
     summary: |
-      GPA: 3.971/4.000
+      GPA: 3.823/4.000
 
-      I have proposed a thesis placing multi-messenger constraints on supermassive black hole binary populations. Supervised by Prof. Chiara Mingarelli [](https://www.chiaramingarelli.com/). I have three lead author projects that have been either published or submitted, including one project which I lead for the NANOGrav collaboration.
+      The nanohertz gravitational wave background is thought to be dominated by gravitational waves from supermassive black hole binaries -- systems of two SMBHs which result from galaxy mergers. Quasars -- i.e., bright, accreting supermassive black holes -- have long been associated with galaxy mergers, suggesting a link with supermassive black hole binaries. In this work I developed novel models of the supermassive black hole binary population using observations of the gravitational wave background, quasars, and galaxies. I found that the gravitational wave background implies that supermassive black hole binaries may be eight times more numerous than previously expected. I further found that quasars may be up to seven times more likely to host a supermassive black hole bianry than random galaxies. Finally, I found an excursion in the spectrum of the GWB at 16 nHz which is louder than the average expected signal from supermassive black hole binaries at ~2σ confidence.
     #  I have given oral presentations at 3 AAS meetings.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MS Physics/Computational Physics
+  - area: M.S. Physics
+    institution: University of Connecticut
+    date_start: 2019-08-26
+    date_end: 2023-05-07
+    summary: |
+      GPA: 3.823/4.000
+
+      Awarded en route to Ph.D.
+  - area: M.S. Physics/Computational Physics
     institution: San José State University
     date_start: 2016-09-07
     date_end: 2019-08-16
     summary: |
       GPA: 3.791/4.000
 
-      Courses included:
+      I developed a data-driven model of gas orbiting the supermassive black hole at the center of our galaxy. I used a leapfrog integration scheme to model gas orbits in the center of our galaxy. I then developed a Bayesian analysis pipeline to fit this model to kinematic data for gas observed in the center of our galaxy, finding the gas must have a peri-apsis distance of 1.3 parsecs from our central supermassive black hole.
+
+      Selected coursework:
       - Astronomy Data Analysis
       - Deep Learning
       - Statistical and Machine Learning Classification
       - Numerical Analysis and Scientific Computings
-  - area: BS Physics, Astrophysics Emphasis
+
+  - area: B.S. Physics, Astrophysics Emphasis
     institution: University of California, Davis
     date_start: 2010-10-04
     date_end: 2014-06-12  
     summary: |
       GPA: 2.945/4.000
       
-      Courses included:
+      Selected coursework:
       - Extragalactic Astrophysics
       - General Relativity
       - Introduction to Cosmology
       - Astronomy Instrumentation & Data Analysis Lab
-#      - Computational Methods of Mathematical Physics
-#      - Stellar Structure & Evolution
+      - Computational Methods of Mathematical Physics
+      - Stellar Structure & Evolution
+
 work:
   - position: Visiting Assistant in Research
     company_name: Department of Physics, Yale University
@@ -100,21 +114,20 @@ work:
     date_start: 2023-08-31
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - Predicting gravitational wave background anisotropy
-      - Developing dual AGN models tied to the gravitational wave background and observable dual AGN
-      - Lead NANOGrav search for discreteness in the gravitational wave background's spectrum
+      Analyzing astrophysical data to model supermassive black hole binary (SMBHB) populations.
+      - Led gravitational wave data analysis and modeling project for collaboration of 100+ scientists.
+      - Developed Bayesian, data-driven models of individual SMBHBs and SMBHB populations.
+      - Simulated 1000 SMBHB populations and their gravitational wave signals to interpret observed data.
   - position: Graduate Assistant
     company_name: Department of Physics, University of Connecticut
     company_url: https://physics.uconn.edu/
     company_logo: ''
     date_start: 2019-08-26
-    date_end: 2024-01-06
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Developed efficient sampling methods for multi-dimensional probability distributions
-      - Set constraints on the number of quasars hosting SMBHBs
-      - Developed quasar-based model of SMBHB populations
+      Developed data-driven models of SMBHB populations.
+      - Developed three hierarchical Bayesian models of SMBHB populations to predict population properties.
+      - Developed novel statistical method to efficiently sample multivariate probability distributions.
       - Taught undergraduate labs in mechanics, electromagnetism, and for non-STEM majors
   - position: Graduate Research and Teaching Associate 
     company_name: Department of Physics and Astronomy, San José State University
@@ -123,9 +136,9 @@ work:
     date_start: 2016-09-07
     date_end: 2019-08-16
     summary: |
-      Responsibilities include:
-      - Developed model of gas kinematics in the central 5 pc around Sagittarius A*
-      - Taught undergraduate labs in mechanics and electromagnetism
+      Performed astrophysics research and data analysis, and taught undergraduate physics labs.
+      - Developed Bayesian data analysis to model gas observed in the galactic center.
+      - Taught undergraduate labs in mechanics and electrodynamics.
   - position: Software Engineer 
     company_name: Salient Process, Inc.
     company_url: https://salientprocess.com/
@@ -133,8 +146,7 @@ work:
     date_start: 2015-02-01
     date_end: 2016-09-01
     summary: |
-      Responsibilities include:
-      - Developed and maintained internal and client-facing software
+      Developed and maintained internal and client-facing software
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -152,8 +164,8 @@ skills:
       - name: Astrophysics
         description: ''
         percent: 100
-        # icon: custom/gravity_waves
-        icon: satellite-dish
+        icon: custom/gravity_waves
+        # icon: satellite-dish
       # - name: UNIX Environments
       #   description: ''
       #   percent: 80
@@ -234,4 +246,7 @@ awards:
 ## About Me
 
 I am a Ph.D. Research Assistant with 8+ years of data analysis, modeling, and research experience in astrophysics.
-I am the lead author of 3 scientific publications, including for a collaboration of 100+ scientists, and a co-author of 17+ research papers and two white papers. I have presented novel research at 27+ scientific meetings, conferences, and seminars, and have given 5 general public talkd for non-technical audiences. I have additionally taught multiple multiple lab courses for students in engineering, bio-medical sciences, and non-STEM majors. I also regularly manage 10+ undergraduate tutors in quantitative subjects such as math, physics, statistics, and chemistry.
+I am the lead author of 3 scientific publications, including for a collaboration of 100+ scientists, and a co-author of 17+ research papers and two white papers.
+I have presented novel research at 27+ scientific meetings, conferences, and seminars, and have given 5 general public talks for non-technical audiences.
+<!-- I have additionally taught multiple multiple lab courses for students in engineering, bio-medical sciences, and non-STEM majors.
+I also regularly manage 10+ undergraduate tutors in quantitative subjects such as math, physics, statistics, and chemistry. -->
