@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a PhD candidate in the Department of Physics at the University of Connecticut, and visiting researcher in the Departmment of Physics at Yale University. I research supermassive black hole binaries, dual AGN, and binary quasars.
-        
-        I use electromagnetic and gravitational wave observations to develop self-consistent, multi-messenger models of supermassive black hole populations.
+        I use Bayesian analysis techniques to develop models of supermassive black hole binaries. In particular, I am intersted in hierarchical Bayesian models, which can be used to combine information from disparate data sources while accounding for systematic differences between data sets. This produces models which are more robust to systematic uncertainties that may be present in individual data sets.
         
         Please reach out to collaborate 😃
     design:
