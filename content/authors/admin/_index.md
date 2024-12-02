@@ -164,7 +164,7 @@ skills:
       - name: Astrophysics
         description: ''
         percent: 100
-        icon: satellite-dish
+        icon: academicons/ads
       - name: Research
         description: ''
         percent: 100
@@ -182,7 +182,7 @@ skills:
       - name: Git
         description: ''
         percent: 100
-        icon: git
+        icon: devicon/git
       - name: SQL
         description: ''
         percent: 100
@@ -192,7 +192,7 @@ skills:
       - name: Numpy
         description: ''
         percent: 100
-        icon: numpy
+        icon: devicon/numpy
       - name: Scipy
         description: ''
         percent: 100
@@ -204,21 +204,21 @@ skills:
       - name: Pandas
         description: ''
         percent: 100
-        icon: pandas
+        icon: devicon/pandas
       - name: Scikit-learn
         description: ''
         percent: 100
-        icon: scikitlearn
+        icon: devicon/scikitlearn
       - name: Jupyter Lab
         description: ''
         percent: 100
-        icon: jupyter
+        icon: devicon/jupyter
   - name: Visualization Skills
     items:
       - name: Matplotlib
         description: ''
         percent: 100
-        icon: matplotlib
+        icon: devicon/matplotlib
       - name: ArviZ
         description: ''
         percent: 60
