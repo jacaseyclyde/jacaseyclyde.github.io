@@ -177,15 +177,15 @@ skills:
         icon: python
       - name: SLURM
         description: ''
-        percent: 60
+        percent: 100
         icon: cpu-chip
       - name: Git
         description: ''
-        percent: 60
+        percent: 100
         icon: git
       - name: SQL
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
     - name: Software Skills
     items:
