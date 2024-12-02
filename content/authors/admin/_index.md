@@ -151,9 +151,9 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Core Skills
     items:
-      - name: Python
+      - name: Statistics
         description: ''
         percent: 100
         icon: cpu-chip
@@ -164,8 +164,89 @@ skills:
       - name: Astrophysics
         description: ''
         percent: 100
-        icon: custom/gravity_waves
-        # icon: satellite-dish
+        icon: satellite-dish
+      - name: Research
+        description: ''
+        percent: 100
+        icon: magnifying-glass
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 100
+        icon: python
+      - name: SLURM
+        description: ''
+        percent: 60
+        icon: cpu-chip
+      - name: Git
+        description: ''
+        percent: 60
+        icon: git
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+    - name: Software Skills
+    items:
+      - name: Numpy
+        description: ''
+        percent: 100
+        icon: numpy
+      - name: Scipy
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: PyMC
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Pandas
+        description: ''
+        percent: 100
+        icon: pandas
+        - name: Scikit-learn
+        description: ''
+        percent: 100
+        icon: scikitlearn
+        - name: Jupyter Lab
+        description: ''
+        percent: 100
+        icon: jupyter
+    - name: Visualization Skills
+    items:
+      - name: Matplotlib
+        description: ''
+        percent: 100
+        icon: matplotlib
+      - name: ArviZ
+        description: ''
+        percent: 60
+        icon: presentation-chart-bar
+      - name: Seaborn
+        description: ''
+        percent: 60
+        icon: presentation-chart-line
+    - name: Communication Skills
+    items:
+      - name: Scientific writing
+        description: ''
+        percent: 100
+        icon: pencil-square
+      - name: Science presentation
+        description: ''
+        percent: 60
+        icon: presentation-chart-bar
+    - name: Other Skills
+    items:
+      - name: Project management
+        description: ''
+        percent: 100
+        icon: square-2-stack
+      - name: Collaboration
+        description: ''
+        percent: 60
+        icon: user-group
       # - name: UNIX Environments
       #   description: ''
       #   percent: 80
