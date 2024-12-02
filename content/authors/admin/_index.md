@@ -205,11 +205,11 @@ skills:
       description: ''
       percent: 100
       icon: pandas
-      - name: Scikit-learn
+    - name: Scikit-learn
       description: ''
       percent: 100
       icon: scikitlearn
-      - name: Jupyter Lab
+    - name: Jupyter Lab
       description: ''
       percent: 100
       icon: jupyter
