@@ -188,7 +188,7 @@ skills:
         percent: 100
         icon: circle-stack
     - name: Software Skills
-    items:
+      items:
       - name: Numpy
         description: ''
         percent: 100
@@ -214,7 +214,7 @@ skills:
         percent: 100
         icon: jupyter
     - name: Visualization Skills
-    items:
+      items:
       - name: Matplotlib
         description: ''
         percent: 100
@@ -228,7 +228,7 @@ skills:
         percent: 60
         icon: presentation-chart-line
     - name: Communication Skills
-    items:
+      items:
       - name: Scientific writing
         description: ''
         percent: 100
@@ -238,7 +238,7 @@ skills:
         percent: 60
         icon: presentation-chart-bar
     - name: Other Skills
-    items:
+      items:
       - name: Project management
         description: ''
         percent: 100
