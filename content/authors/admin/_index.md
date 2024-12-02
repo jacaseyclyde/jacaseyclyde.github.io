@@ -169,7 +169,7 @@ skills:
         description: ''
         percent: 100
         icon: magnifying-glass
-  - name: Technical Skills
+  - name: Technical
     items:
       - name: Python
         description: ''
@@ -187,7 +187,7 @@ skills:
         description: ''
         percent: 100
         icon: circle-stack
-  - name: Software Skills
+  - name: Software
     items:
       - name: Numpy
         description: ''
@@ -213,7 +213,7 @@ skills:
         description: ''
         percent: 100
         icon: devicon/jupyter
-  - name: Visualization Skills
+  - name: Visualization
     items:
       - name: Matplotlib
         description: ''
@@ -227,7 +227,7 @@ skills:
         description: ''
         percent: 60
         icon: presentation-chart-line
-  - name: Communication Skills
+  - name: Communication
     items:
       - name: Scientific writing
         description: ''
@@ -251,18 +251,22 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
+      - name: Dogs
+        description: ''
+        percent: 100
+        icon: dog
       - name: Tabletop RPGs
         description: ''
         percent: 80
         icon: custom/dragon
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
 
 languages:
   - name: English
