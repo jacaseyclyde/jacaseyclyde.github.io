@@ -169,6 +169,14 @@ skills:
         description: ''
         percent: 100
         icon: magnifying-glass
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
   - name: Technical
     items:
       - name: Python
@@ -187,6 +195,14 @@ skills:
         description: ''
         percent: 100
         icon: circle-stack
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
   - name: Software
     items:
       - name: Numpy
@@ -227,6 +243,18 @@ skills:
         description: ''
         percent: 60
         icon: presentation-chart-line
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
   - name: Communication
     items:
       - name: Scientific writing
@@ -237,6 +265,22 @@ skills:
         description: ''
         percent: 60
         icon: presentation-chart-bar
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
   - name: Other Skills
     items:
       - name: Project management
@@ -247,6 +291,22 @@ skills:
         description: ''
         percent: 60
         icon: user-group
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -267,6 +327,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
 
 languages:
   - name: English
