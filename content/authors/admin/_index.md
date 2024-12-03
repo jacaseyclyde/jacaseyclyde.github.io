@@ -228,7 +228,7 @@ skills:
       - name: Jupyter Lab
         description: ''
         percent: 100
-        icon: devicon/jupyter
+        icon: devicon/jupyter  
 
   - name: Visualization
     items:
