@@ -168,7 +168,7 @@ skills:
       - name: Research
         description: ''
         percent: 100
-        icon: magnifying-glass<br><br>
+        icon: magnifying-glass
   - name: Technical
     items:
       - name: Python
