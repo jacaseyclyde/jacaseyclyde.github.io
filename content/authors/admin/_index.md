@@ -255,34 +255,16 @@ skills:
         description: ''
         percent: ''
         icon: ''
-  - name: Communication
+  - name: Soft Skills
     items:
       - name: Scientific writing
         description: ''
         percent: 100
         icon: pencil-square
-      - name: Science presentation
+      - name: Presentations
         description: ''
         percent: 60
         icon: presentation-chart-bar
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-  - name: Other Skills
-    items:
       - name: Project management
         description: ''
         percent: 100
@@ -291,19 +273,11 @@ skills:
         description: ''
         percent: 60
         icon: user-group
-      - name: ''
+      - name: 
         description: ''
         percent: ''
         icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
+      - name: 
         description: ''
         percent: ''
         icon: ''
