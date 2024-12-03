@@ -229,6 +229,9 @@ skills:
         description: ''
         percent: 100
         icon: devicon/jupyter
+
+  - name: Visualization
+    items:
       - name: Matplotlib
         description: ''
         percent: 100
