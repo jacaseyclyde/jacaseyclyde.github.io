@@ -230,86 +230,86 @@ skills:
         percent: 100
         icon: devicon/jupyter  
 
-  - name: Visualization
-    items:
-      - name: Matplotlib
-        description: ''
-        percent: 100
-        icon: devicon/matplotlib
-      - name: ArviZ
-        description: ''
-        percent: 60
-        icon: presentation-chart-bar
-      - name: Seaborn
-        description: ''
-        percent: 60
-        icon: presentation-chart-line
-      - name: ' '
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ' '
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ' '
-        description: ''
-        percent: ''
-        icon: ''
-  - name: Soft Skills
-    items:
-      - name: Scientific writing
-        description: ''
-        percent: 100
-        icon: pencil-square
-      - name: Presentations
-        description: ''
-        percent: 60
-        icon: presentation-chart-bar
-      - name: Project management
-        description: ''
-        percent: 100
-        icon: square-2-stack
-      - name: Collaboration
-        description: ''
-        percent: 60
-        icon: user-group
-      - name: ' '
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ' '
-        description: ''
-        percent: ''
-        icon: ''
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Dogs
-        description: ''
-        percent: 100
-        icon: dog
-      - name: Tabletop RPGs
-        description: ''
-        percent: 80
-        icon: custom/dragon
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: ' '
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ' '
-        description: ''
-        percent: ''
-        icon: ''
+  # - name: Visualization
+  #   items:
+  #     - name: Matplotlib
+  #       description: ''
+  #       percent: 100
+  #       icon: devicon/matplotlib
+  #     - name: ArviZ
+  #       description: ''
+  #       percent: 60
+  #       icon: presentation-chart-bar
+  #     - name: Seaborn
+  #       description: ''
+  #       percent: 60
+  #       icon: presentation-chart-line
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
+  # - name: Soft Skills
+  #   items:
+  #     - name: Scientific writing
+  #       description: ''
+  #       percent: 100
+  #       icon: pencil-square
+  #     - name: Presentations
+  #       description: ''
+  #       percent: 60
+  #       icon: presentation-chart-bar
+  #     - name: Project management
+  #       description: ''
+  #       percent: 100
+  #       icon: square-2-stack
+  #     - name: Collaboration
+  #       description: ''
+  #       percent: 60
+  #       icon: user-group
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Dogs
+  #       description: ''
+  #       percent: 100
+  #       icon: dog
+  #     - name: Tabletop RPGs
+  #       description: ''
+  #       percent: 80
+  #       icon: custom/dragon
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
 
 languages:
   - name: English
