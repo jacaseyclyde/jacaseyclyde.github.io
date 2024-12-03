@@ -169,11 +169,11 @@ skills:
         description: ''
         percent: 100
         icon: magnifying-glass
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
@@ -195,11 +195,11 @@ skills:
         description: ''
         percent: 100
         icon: circle-stack
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
@@ -243,15 +243,15 @@ skills:
         description: ''
         percent: 60
         icon: presentation-chart-line
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
@@ -273,11 +273,11 @@ skills:
         description: ''
         percent: 60
         icon: user-group
-      - name: 
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
-      - name: 
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
@@ -301,11 +301,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
-      - name: ''
+      - name: ' '
         description: ''
         percent: ''
         icon: ''
