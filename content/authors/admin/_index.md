@@ -146,23 +146,23 @@ skills:
     items:
       - name: Python
         description: ''
-        # percent: 100
+        percent: 100
         icon: python
       - name: SQL
         description: ''
-        # percent: 100
+        percent: 100
         icon: circle-stack
       - name: Java
         description: ''
-        # percent: 100
+        percent: 100
         icon: devicon/java
       - name: C++
         description: ''
-        # percent: 100
+        percent: 100
         icon: devicon/cplucplus
       - name: C
         description: ''
-        # percent: 100
+        percent: 100
         icon: devicon/c
   - name: Data Science & Machine Learning
     items:
