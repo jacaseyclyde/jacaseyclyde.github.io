@@ -23,11 +23,11 @@ highlight_name: true
 role: Research Scientist | Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Department of Physics, University of Connecticut
-    url: https://physics.uconn.edu/
-  - name: Department of Physics, Yale University
-    url: https://physics.yale.edu/
+# organizations:
+#   - name: Department of Physics, University of Connecticut
+#     url: https://physics.uconn.edu/
+#   - name: Department of Physics, Yale University
+#     url: https://physics.yale.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,12 +55,13 @@ interests:
   - Bayesian analysis
   - Predictive modeling
   - Machine learning
+  - Multi-modal data
 
 education:
   - area: Ph.D. Physics
     institution: University of Connecticut
-    date_start: 2019-08-26
-    date_end: ''
+    date_start: '2019-08-26'
+    date_end: '2024-12-15'
     summary: |
       GPA: 3.823/4.000
 
@@ -79,8 +80,8 @@ education:
   #     Awarded en route to Ph.D.
   - area: M.S. Physics/Computational Physics
     institution: San José State University
-    date_start: 2016-09-07
-    date_end: 2019-08-16
+    date_start: '2016-09-07'
+    date_end: '2019-08-16'
     summary: |
       GPA: 3.791/4.000
 
@@ -88,13 +89,13 @@ education:
 
       Selected coursework:
       - Data Analysis & Machine Learning in Astronomy
+      - Statistical & Machine Learning Classification
       - Deep Learning
-      - Statistical and Machine Learning Classification
 
   - area: B.S. Physics, Astrophysics Emphasis
     institution: University of California, Davis
-    date_start: 2010-10-04
-    date_end: 2014-06-12  
+    date_start: '2010-10-04'
+    date_end: '2014-06-12'
     summary: |
       GPA: 2.945/4.000
 
@@ -103,8 +104,8 @@ work:
     company_name: Department of Physics, Yale University
     company_url: https://physics.yale.edu/
     company_logo: ''
-    date_start: 2023-08-31
-    date_end: ''
+    date_start: '2023-08-31'
+    date_end: '2024-12-31'
     summary: |
       - Developed hierarchical Bayesian models for multi-modal astrophysical datasets, improving population predictions.
       - Led cross-functional collaboration with 100+ scientists; results published in top-tier journal.
@@ -113,8 +114,8 @@ work:
     company_name: Department of Physics, University of Connecticut
     company_url: https://physics.uconn.edu/
     company_logo: ''
-    date_start: 2019-08-26
-    date_end: ''
+    date_start: '2019-08-26'
+    date_end: '2024-12-15'
     summary: |
       - Designed hierarchical Bayesian models to enhance predictive analytics using multi-modal data; methods published in a high-impact journal.
       - Optimized predictive model efficiency by 300× using Hamiltonian Monte Carlo, reducing computational costs significantly.
@@ -123,8 +124,8 @@ work:
     company_name: Department of Physics and Astronomy, San José State University
     company_url: https://www.sjsu.edu/physics/
     company_logo: ''
-    date_start: 2016-09-07
-    date_end: 2019-08-16
+    date_start: '2016-09-07'
+    date_end: '2019-08-16'
     summary: |
       - Built convolutional neural network pipelines for galaxy classification across large datasets.
       - Developed Bayesian analysis techniques for predictive spatial mapping of astronomical observations.
@@ -132,8 +133,8 @@ work:
     company_name: Salient Process, Inc.
     company_url: https://salientprocess.com/
     company_logo: ''
-    date_start: 2015-02-01
-    date_end: 2016-09-01
+    date_start: '2015-02-01'
+    date_end: '2016-09-01'
     summary: |
       - Led development of SPARK UI toolkit (acquired by IBM), showcasing practical experience in software engineering.
       - Pioneered Git-based version control for streamlined software management.
@@ -147,7 +148,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: python
+        icon: devicon/python
       - name: SQL
         description: ''
         percent: 100
@@ -159,7 +160,7 @@ skills:
       - name: C++
         description: ''
         percent: 100
-        icon: devicon/cplucplus
+        icon: devicon/cplusplus
       - name: C
         description: ''
         percent: 100
@@ -188,22 +189,6 @@ skills:
         # icon: circle-stack
   - name: Tools
     items:
-      # - name: Numpy
-      #   description: ''
-      #   percent: 100
-      #   icon: devicon/numpy
-      # - name: Scipy
-      #   description: ''
-      #   percent: 100
-      #   icon: chart-bar
-      # - name: PyMC
-      #   description: ''
-      #   percent: 100
-      #   icon: code-bracket
-      # - name: Pandas
-      #   description: ''
-      #   percent: 100
-      #   icon: devicon/pandas
       - name: Scikit-learn
         description: ''
         percent: 100
@@ -224,165 +209,10 @@ skills:
         description: ''
         percent: 100
         icon: devicon/jupyter
-  # - name: Core Skills
-  #   items:
-  #     - name: Statistics
-  #       description: ''
-  #       percent: 100
-  #       icon: cpu-chip
-  #     - name: Data Science
-  #       description: ''
-  #       percent: 100
-  #       icon: chart-bar
-  #     - name: Astrophysics
-  #       description: ''
-  #       percent: 100
-  #       icon: academicons/ads
-  #     - name: Research
-  #       description: ''
-  #       percent: 100
-  #       icon: magnifying-glass
-  # - name: Technical
-  #   items:
-  #     - name: Python
-  #       description: ''
-  #       percent: 100
-  #       icon: python
-  #     - name: SLURM
-  #       description: ''
-  #       percent: 100
-  #       icon: cpu-chip
-  #     - name: Git
-  #       description: ''
-  #       percent: 100
-  #       icon: devicon/git
-  #     - name: SQL
-  #       description: ''
-  #       percent: 100
-  #       icon: circle-stack
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
-  # - name: Software
-  #   items:
-  #     - name: Numpy
-  #       description: ''
-  #       percent: 100
-  #       icon: devicon/numpy
-  #     - name: Scipy
-  #       description: ''
-  #       percent: 100
-  #       icon: chart-bar
-  #     - name: PyMC
-  #       description: ''
-  #       percent: 100
-  #       icon: code-bracket
-  #     - name: Pandas
-  #       description: ''
-  #       percent: 100
-  #       icon: devicon/pandas
-  #     - name: Scikit-learn
-  #       description: ''
-  #       percent: 100
-  #       icon: devicon/scikitlearn
-  #     - name: Jupyter Lab
-  #       description: ''
-  #       percent: 100
-  #       icon: devicon/jupyter  
-
-  # - name: Visualization
-  #   items:
-  #     - name: Matplotlib
-  #       description: ''
-  #       percent: 100
-  #       icon: devicon/matplotlib
-  #     - name: ArviZ
-  #       description: ''
-  #       percent: 60
-  #       icon: presentation-chart-bar
-  #     - name: Seaborn
-  #       description: ''
-  #       percent: 60
-  #       icon: presentation-chart-line
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
-  # - name: Soft Skills
-  #   items:
-  #     - name: Scientific writing
-  #       description: ''
-  #       percent: 100
-  #       icon: pencil-square
-  #     - name: Presentations
-  #       description: ''
-  #       percent: 60
-  #       icon: presentation-chart-bar
-  #     - name: Project management
-  #       description: ''
-  #       percent: 100
-  #       icon: square-2-stack
-  #     - name: Collaboration
-  #       description: ''
-  #       percent: 60
-  #       icon: user-group
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #     - name: Dogs
-  #       description: ''
-  #       percent: 100
-  #       icon: dog
-  #     - name: Tabletop RPGs
-  #       description: ''
-  #       percent: 80
-  #       icon: custom/dragon
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
-  #     - name: ' '
-  #       description: ''
-  #       percent: ''
-  #       icon: ''
 
 languages:
   - name: English
     percent: 100
-  # - name: Chinese
-  #   percent: 75
-  # - name: Portuguese
-  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -395,7 +225,10 @@ awards:
     awarder: NASA Connecticut Space Grant Consortium
     # icon: coursera
     summary: |
-      I developed a quasar-based model of supermassive black hole binary populations. Using this model I predicted the local number density of supermassive black hole binaries implied by the common red-noise process observed in NANOGrav's 12.5-year data set. I found the local number density would need to be five times larger than previously expected from simulations of galaxy mergers in ILLUSTRIS.
+      I was awareded an $8,000 NASA research fellowship, during which I developed a predictive model to analyze complex astrophysical data, focusing on quasar-based modeling of supermassive black hole binary populations. By integrating observational data from NANOGrav's 12.5-year dataset with advanced statistical techniques, I quantified the local number density of these binaries, uncovering insights that challenged previous predictions based on galaxy merger simulations (e.g., ILLUSTRIS). This work required expertise in **data modeling**, **statistical analysis**, and **designing Bayesian analysis frameworks**, as well as deriving actionable insights from noisy, high-dimensional datasets.
+
+      This experience honed my ability to build robust, data-driven models and uncover critical patterns, skills I am eager to apply to complex, real-world challenges in industry.
+      # I developed a quasar-based model of supermassive black hole binary populations. Using this model I predicted the local number density of supermassive black hole binaries implied by the common red-noise process observed in NANOGrav's 12.5-year data set. I found the local number density would need to be five times larger than previously expected from simulations of galaxy mergers in ILLUSTRIS.
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'

@@ -1,13 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Galaxy Classification with Neural Networks in the Sloan Digital Sky Survey
+date: 2019-08-01
+# external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
+  - Keras
+  - TensorFlow
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+- Designed and implemented scalable pipelines for analyzing large-scale galaxy datasets using convolutional neural networks.
+- Developed modular and transferable solutions adaptable to broader classification tasks, including computer vision.
 
 <!--more-->
