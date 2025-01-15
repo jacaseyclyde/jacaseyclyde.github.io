@@ -115,7 +115,7 @@ work:
     company_logo: ''
     date_start: 2019-08-26
     date_end: ''
-    summary: |
+    summary: |2-
       - Designed hierarchical Bayesian models to enhance predictive analytics using multi-modal data; methods published in a high-impact journal.
       - Optimized predictive model efficiency by 300× using Hamiltonian Monte Carlo, reducing computational costs significantly.
       - Secured $8,000 NASA Space Grant Fellowship based on innovative research proposals.
@@ -125,7 +125,7 @@ work:
     company_logo: ''
     date_start: 2016-09-07
     date_end: 2019-08-16
-    summary: |
+    summary: |2-
       - Built convolutional neural network pipelines for galaxy classification across large datasets.
       - Developed Bayesian analysis techniques for predictive spatial mapping of astronomical observations.
   - position: Software Engineer 
@@ -134,7 +134,7 @@ work:
     company_logo: ''
     date_start: 2015-02-01
     date_end: 2016-09-01
-    summary: |
+    summary: |2-
       - Led development of SPARK UI toolkit (acquired by IBM), showcasing practical experience in software engineering.
       - Pioneered Git-based version control for streamlined software management.
       - Designed and maintained software tools, improving productivity and quality of deliverables.
