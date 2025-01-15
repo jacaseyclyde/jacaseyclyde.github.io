@@ -49,11 +49,12 @@ profiles:
     url: https://orcid.org/0000-0002-5557-4007
 
 interests:
-  - Supermassive black holes
-  - Multi-messenger astrophysics
+  # - Supermassive black holes
+  # - Multi-messenger astrophysics
   - Data science
   - Bayesian analysis
   - Predictive modeling
+  - Machine learning
 
 education:
   - area: Ph.D. Physics
@@ -63,19 +64,19 @@ education:
     summary: |
       GPA: 3.823/4.000
 
-      The nanohertz gravitational wave background is thought to be dominated by gravitational waves from supermassive black hole binaries -- systems of two SMBHs which result from galaxy mergers. Quasars -- i.e., bright, accreting supermassive black holes -- have long been associated with galaxy mergers, suggesting a link with supermassive black hole binaries. In this work I developed novel models of the supermassive black hole binary population using observations of the gravitational wave background, quasars, and galaxies. I found that the gravitational wave background implies that supermassive black hole binaries may be eight times more numerous than previously expected. I further found that quasars may be up to seven times more likely to host a supermassive black hole bianry than random galaxies. Finally, I found an excursion in the spectrum of the GWB at 16 nHz which is louder than the average expected signal from supermassive black hole binaries at ~2σ confidence.
+      I developed statistical and computational models to analyze the nanohertz gravitational wave background (GWB) and its connection to supermassive black hole binaries (SMBHBs) using observational data. I found SMBHBs may be eight times more prevalent than expected, quasars up to seven times more likely to host SMBHBs, and identified a 16 nHz anomaly in the GWB spectrum (∼ 2σ confidence). I demonstrated expertise in data modeling, statistical inference, and analyzing complex datasets.
     #  I have given oral presentations at 3 AAS meetings.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: M.S. Physics
-    institution: University of Connecticut
-    date_start: 2019-08-26
-    date_end: 2023-05-07
-    summary: |
-      GPA: 3.823/4.000
+  # - area: M.S. Physics
+  #   institution: University of Connecticut
+  #   date_start: 2019-08-26
+  #   date_end: 2023-05-07
+  #   summary: |
+  #     GPA: 3.823/4.000
 
-      Awarded en route to Ph.D.
+  #     Awarded en route to Ph.D.
   - area: M.S. Physics/Computational Physics
     institution: San José State University
     date_start: 2016-09-07
@@ -83,13 +84,12 @@ education:
     summary: |
       GPA: 3.791/4.000
 
-      I developed a data-driven model of gas orbiting the supermassive black hole at the center of our galaxy. I used a leapfrog integration scheme to model gas orbits in the center of our galaxy. I then developed a Bayesian analysis pipeline to fit this model to kinematic data for gas observed in the center of our galaxy, finding the gas must have a peri-apsis distance of 1.3 parsecs from our central supermassive black hole.
+      Developed a computational model using a leapfrog integration scheme to simulate the orbit of dense molecular gas around our galaxy’s central supermassive black hole (SMBH). Built a Bayesian analysis pipeline to fit the model to observational data, estimating the gas passes within ∼ 5 lightyears of the SMBH. Demonstrated expertise in algorithm development, statistical modeling, and data analysis.
 
       Selected coursework:
-      - Astronomy Data Analysis
+      - Data Analysis & Machine Learning in Astronomy
       - Deep Learning
       - Statistical and Machine Learning Classification
-      - Numerical Analysis and Scientific Computings
 
   - area: B.S. Physics, Astrophysics Emphasis
     institution: University of California, Davis
@@ -97,14 +97,6 @@ education:
     date_end: 2014-06-12  
     summary: |
       GPA: 2.945/4.000
-      
-      Selected coursework:
-      - Extragalactic Astrophysics
-      - General Relativity
-      - Introduction to Cosmology
-      - Astronomy Instrumentation & Data Analysis Lab
-      - Computational Methods of Mathematical Physics
-      - Stellar Structure & Evolution
 
 work:
   - position: Visiting Assistant in Research
@@ -114,10 +106,9 @@ work:
     date_start: 2023-08-31
     date_end: ''
     summary: |2-
-      Analyzing astrophysical data to model supermassive black hole binary (SMBHB) populations.
-      - Led gravitational wave data analysis and modeling project for collaboration of 100+ scientists.
-      - Developed Bayesian, data-driven models of individual SMBHBs and SMBHB populations.
-      - Simulated 1000 SMBHB populations and their gravitational wave signals to interpret observed data.
+      - Developed hierarchical Bayesian models for multi-modal astrophysical datasets, improving population predictions.
+      - Led cross-functional collaboration with 100+ scientists; results published in top-tier journal.
+      - Leveraged survival analysis techniques to analyze noisy, incomplete datasets, producing actionable insights.
   - position: Graduate Assistant
     company_name: Department of Physics, University of Connecticut
     company_url: https://physics.uconn.edu/
@@ -125,10 +116,9 @@ work:
     date_start: 2019-08-26
     date_end: ''
     summary: |
-      Developed data-driven models of SMBHB populations.
-      - Developed three hierarchical Bayesian models of SMBHB populations to predict population properties.
-      - Developed novel statistical method to efficiently sample multivariate probability distributions.
-      - Taught undergraduate labs in mechanics, electromagnetism, and for non-STEM majors
+      - Designed hierarchical Bayesian models to enhance predictive analytics using multi-modal data; methods published in a high-impact journal.
+      - Optimized predictive model efficiency by 300× using Hamiltonian Monte Carlo, reducing computational costs significantly.
+      - Secured $8,000 NASA Space Grant Fellowship based on innovative research proposals.
   - position: Graduate Research and Teaching Associate 
     company_name: Department of Physics and Astronomy, San José State University
     company_url: https://www.sjsu.edu/physics/
@@ -136,9 +126,8 @@ work:
     date_start: 2016-09-07
     date_end: 2019-08-16
     summary: |
-      Performed astrophysics research and data analysis, and taught undergraduate physics labs.
-      - Developed Bayesian data analysis to model gas observed in the galactic center.
-      - Taught undergraduate labs in mechanics and electrodynamics.
+      - Built convolutional neural network pipelines for galaxy classification across large datasets.
+      - Developed Bayesian analysis techniques for predictive spatial mapping of astronomical observations.
   - position: Software Engineer 
     company_name: Salient Process, Inc.
     company_url: https://salientprocess.com/
@@ -146,81 +135,165 @@ work:
     date_start: 2015-02-01
     date_end: 2016-09-01
     summary: |
-      Developed and maintained internal and client-facing software
+      - Led development of SPARK UI toolkit (acquired by IBM), showcasing practical experience in software engineering.
+      - Pioneered Git-based version control for streamlined software management.
+      - Designed and maintained software tools, improving productivity and quality of deliverables.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Core Skills
-    items:
-      - name: Statistics
-        description: ''
-        percent: 100
-        icon: cpu-chip
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Astrophysics
-        description: ''
-        percent: 100
-        icon: academicons/ads
-      - name: Research
-        description: ''
-        percent: 100
-        icon: magnifying-glass
-  - name: Technical
+    - name: Programming
     items:
       - name: Python
         description: ''
-        percent: 100
+        # percent: 100
         icon: python
-      - name: SLURM
-        description: ''
-        percent: 100
-        icon: cpu-chip
-      - name: Git
-        description: ''
-        percent: 100
-        icon: devicon/git
       - name: SQL
         description: ''
-        percent: 100
+        # percent: 100
         icon: circle-stack
-      - name: ' '
+      - name: Java
         description: ''
-        percent: ''
-        icon: ''
-      - name: ' '
+        # percent: 100
+        icon: devicon/java
+      - name: C++
         description: ''
-        percent: ''
-        icon: ''
-  - name: Software
+        # percent: 100
+        icon: devicon/cplucplus
+      - name: C
+        description: ''
+        # percent: 100
+        icon: devicon/c
+  - name: Data Science & Machine Learning
     items:
-      - name: Numpy
+      - name: Predictive Modeling
         description: ''
         percent: 100
-        icon: devicon/numpy
-      - name: Scipy
+        # icon: python
+      - name: Bayesian Inference
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: PyMC
+        # icon: cpu-chip
+      - name: Regression Analysis
         description: ''
         percent: 100
-        icon: code-bracket
-      - name: Pandas
+        # icon: devicon/git
+      - name: Neural Networks
         description: ''
         percent: 100
-        icon: devicon/pandas
+        # icon: circle-stack
+      - name: Causal Inference
+        description: ''
+        percent: 100
+        # icon: circle-stack
+  - name: Tools
+    items:
+      # - name: Numpy
+      #   description: ''
+      #   percent: 100
+      #   icon: devicon/numpy
+      # - name: Scipy
+      #   description: ''
+      #   percent: 100
+      #   icon: chart-bar
+      # - name: PyMC
+      #   description: ''
+      #   percent: 100
+      #   icon: code-bracket
+      # - name: Pandas
+      #   description: ''
+      #   percent: 100
+      #   icon: devicon/pandas
       - name: Scikit-learn
         description: ''
         percent: 100
         icon: devicon/scikitlearn
-      - name: Jupyter Lab
+      - name: Keras
         description: ''
         percent: 100
-        icon: devicon/jupyter  
+        icon: devicon/keras
+      - name: TensorFlow
+        description: ''
+        percent: 100
+        icon: devicon/tensorflow
+      - name: Git
+        description: ''
+        percent: 100
+        icon: devicon/git 
+      - name: Jupyter
+        description: ''
+        percent: 100
+        icon: devicon/jupyter
+  # - name: Core Skills
+  #   items:
+  #     - name: Statistics
+  #       description: ''
+  #       percent: 100
+  #       icon: cpu-chip
+  #     - name: Data Science
+  #       description: ''
+  #       percent: 100
+  #       icon: chart-bar
+  #     - name: Astrophysics
+  #       description: ''
+  #       percent: 100
+  #       icon: academicons/ads
+  #     - name: Research
+  #       description: ''
+  #       percent: 100
+  #       icon: magnifying-glass
+  # - name: Technical
+  #   items:
+  #     - name: Python
+  #       description: ''
+  #       percent: 100
+  #       icon: python
+  #     - name: SLURM
+  #       description: ''
+  #       percent: 100
+  #       icon: cpu-chip
+  #     - name: Git
+  #       description: ''
+  #       percent: 100
+  #       icon: devicon/git
+  #     - name: SQL
+  #       description: ''
+  #       percent: 100
+  #       icon: circle-stack
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
+  #     - name: ' '
+  #       description: ''
+  #       percent: ''
+  #       icon: ''
+  # - name: Software
+  #   items:
+  #     - name: Numpy
+  #       description: ''
+  #       percent: 100
+  #       icon: devicon/numpy
+  #     - name: Scipy
+  #       description: ''
+  #       percent: 100
+  #       icon: chart-bar
+  #     - name: PyMC
+  #       description: ''
+  #       percent: 100
+  #       icon: code-bracket
+  #     - name: Pandas
+  #       description: ''
+  #       percent: 100
+  #       icon: devicon/pandas
+  #     - name: Scikit-learn
+  #       description: ''
+  #       percent: 100
+  #       icon: devicon/scikitlearn
+  #     - name: Jupyter Lab
+  #       description: ''
+  #       percent: 100
+  #       icon: devicon/jupyter  
 
   # - name: Visualization
   #   items:
