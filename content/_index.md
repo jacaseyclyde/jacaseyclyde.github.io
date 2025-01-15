@@ -18,8 +18,8 @@ sections:
       button:
         - text: Download Resume
           url: uploads/resume.pdf
-        - text: Download CV
-          url: uploads/curriculum_vitae.pdf
+        # - text: Download CV
+        #   url: uploads/curriculum_vitae.pdf
     design:
       css_class: dark
       background:
