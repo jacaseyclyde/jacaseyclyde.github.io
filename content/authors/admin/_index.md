@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Assistant/Visiting Research Assistant
+role: Research Scientist | Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -418,8 +418,9 @@ awards:
 
 ## About Me
 
-I am a Ph.D. Research Assistant with 8+ years of data analysis, modeling, and research experience in astrophysics.
+I am a Ph.D.-trained research scientist with 8+ years of expertise in statistical modeling, predictive analytics, and machine learning. I am skilled at leveraging Python, SQL, and advanced methods -- such as Bayesian inference -- to derive actionable insights from complex datasets. I have a proven ability to communicate technical findings to diverse audiences, lead cross-functional collaborations, and optimize workflows for research advancements. I am passionate about driving data-informed innovation in industry.
+<!-- I am a Ph.D. Research Assistant with 8+ years of data analysis, modeling, and research experience in astrophysics.
 I am the lead author of 3 scientific publications, including for a collaboration of 100+ scientists, and a co-author of 17+ research papers and two white papers.
-I have presented novel research at 27+ scientific meetings, conferences, and seminars, and have given 5 general public talks for non-technical audiences.
+I have presented novel research at 27+ scientific meetings, conferences, and seminars, and have given 5 general public talks for non-technical audiences. -->
 <!-- I have additionally taught multiple multiple lab courses for students in engineering, bio-medical sciences, and non-STEM majors.
 I also regularly manage 10+ undergraduate tutors in quantitative subjects such as math, physics, statistics, and chemistry. -->
