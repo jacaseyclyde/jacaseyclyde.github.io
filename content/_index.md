@@ -38,9 +38,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I use Bayesian analysis techniques to develop models of supermassive black hole binaries. In particular, I am intersted in hierarchical Bayesian models, which can be used to combine information from disparate data sources while accounding for systematic differences between data sets. This produces models which are more robust to systematic uncertainties that may be present in individual data sets.
-        
-        Please reach out to collaborate 😃
+        I specialize in **Bayesian analysis techniques** and **machine learning** to develop sophisticated models for complex systems. My work focuses on **hierarchical Bayesian methods**, which integrate information from diverse data sources while accounting for systematic differences, producing robust and reliable models even in the presence of uncertainties. Additionally, I have hands-on experience applying machine learning methods such as **convolutional neural networks** to uncover patterns, make predictions, and solve challenging data-driven problems.
+
+        I’m passionate about leveraging these skills to tackle real-world challenges and drive innovation. Let’s collaborate! 😃
     design:
       columns: '1'
   - block: collection
