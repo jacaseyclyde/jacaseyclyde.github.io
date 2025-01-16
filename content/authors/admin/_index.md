@@ -228,7 +228,6 @@ awards:
       I was awareded an $8,000 NASA research fellowship, during which I developed a predictive model to analyze complex astrophysical data, focusing on quasar-based modeling of supermassive black hole binary populations. By integrating observational data from NANOGrav's 12.5-year dataset with advanced statistical techniques, I quantified the local number density of these binaries, uncovering insights that challenged previous predictions based on galaxy merger simulations (e.g., ILLUSTRIS). This work required expertise in **data modeling**, **statistical analysis**, and **designing Bayesian analysis frameworks**, as well as deriving actionable insights from noisy, high-dimensional datasets.
 
       This experience honed my ability to build robust, data-driven models and uncover critical patterns, skills I am eager to apply to complex, real-world challenges in industry.
-      # I developed a quasar-based model of supermassive black hole binary populations. Using this model I predicted the local number density of supermassive black hole binaries implied by the common red-noise process observed in NANOGrav's 12.5-year data set. I found the local number density would need to be five times larger than previously expected from simulations of galaxy mergers in ILLUSTRIS.
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
