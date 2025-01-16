@@ -78,7 +78,7 @@ education:
   #     GPA: 3.823/4.000
 
   #     Awarded en route to Ph.D.
-  - area: M.S. Physics/Computational Physics
+  - area: M.S. Physics
     institution: San José State University
     date_start: '2016-09-07'
     date_end: '2019-08-16'
@@ -92,7 +92,7 @@ education:
       - Statistical & Machine Learning Classification
       - Deep Learning
 
-  - area: B.S. Physics, Astrophysics Emphasis
+  - area: B.S. Physics
     institution: University of California, Davis
     date_start: '2010-10-04'
     date_end: '2014-06-12'
