@@ -1,7 +1,7 @@
 ---
 title: Galaxy Classification with Neural Networks in the Sloan Digital Sky Survey
 date: 2019-04-26
-# external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://github.com/sjsu-high-z-classify/GalNet
 tags:
   - Machine Learning
   - Computer Vision
