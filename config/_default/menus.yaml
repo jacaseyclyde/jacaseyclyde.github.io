@@ -7,27 +7,30 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  # - name: News
-  #   url: /#news
-  #   weight: 13
   - name: Experience
     url: experience/
     weight: 20
   - name: Projects
     url: projects/
     weight: 30
+  - name: Papers
+    url: /#papers
+    weight: 40
+  - name: Talks
+    url: /#talks
+    weight: 50
+  # - name: News
+  #   url: /#news
+  #   weight: 60
   # - name: Teaching
   #   url: teaching/
-  #   weight: 40
+  #   weight: 70
   - name: Resume
     url: uploads/resume.pdf
     weight: 90
-  - name: CV
-    url: uploads/curriculum_vitae.pdf
+  - name: Short CV
+    url: uploads/short_cv.pdf
     weight: 100
+  - name: Full CV
+    url: uploads/curriculum_vitae.pdf
+    weight: 110
