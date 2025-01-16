@@ -43,6 +43,18 @@ sections:
     design:
       columns: '1'
   - block: collection
+    content:
+      title: Selected Projects
+      text: I enjoy developing robust, data-driven solutions and acitonable insights. Here are a selection of projects that I have worked on over the years.
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 1
+  - block: collection
     id: papers
     content:
       title: Featured Publications

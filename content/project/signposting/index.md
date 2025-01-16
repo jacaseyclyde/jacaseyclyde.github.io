@@ -1,6 +1,7 @@
 ---
 title: Quasars can Signpost Supermassive Black Hole Binaries
 date: 2024-05-29
+featured: true
 # external_link: https://github.com/pytorch/pytorch
 tags:
   - Hierarchical Bayesian Modeling

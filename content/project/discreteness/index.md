@@ -1,6 +1,7 @@
 ---
 title: 'The NANOGrav 15 yr Data Set: Looking for Signs of Discreteness in the Gravitational-wave Background'
 date: 2019-08-01
+featured: true
 # external_link: https://github.com/pandas-dev/pandas
 tags:
   - Bayesian Inference
