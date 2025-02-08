@@ -26,11 +26,11 @@ main:
   #   url: teaching/
   #   weight: 70
   - name: Resume
-    url: uploads/resume.pdf
+    url: uploads/Resume.pdf
     weight: 90
-  - name: Short CV
-    url: uploads/short_cv.pdf
-    weight: 100
-  - name: Full CV
-    url: uploads/curriculum_vitae.pdf
-    weight: 110
+  # - name: Short CV
+  #   url: uploads/short_cv.pdf
+  #   weight: 100
+  # - name: Full CV
+  #   url: uploads/curriculum_vitae.pdf
+  #   weight: 110

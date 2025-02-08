@@ -63,8 +63,6 @@ education:
     date_start: '2019-08-26'
     date_end: '2024-12-15'
     summary: |
-      GPA: 3.823/4.000
-
       I developed statistical and computational models to analyze the nanohertz gravitational wave background (GWB) and its connection to supermassive black hole binaries (SMBHBs) using observational data. I found SMBHBs may be eight times more prevalent than expected, quasars up to seven times more likely to host SMBHBs, and identified a 16 nHz anomaly in the GWB spectrum (∼ 2σ confidence). I demonstrated expertise in data modeling, statistical inference, and analyzing complex datasets.
     #  I have given oral presentations at 3 AAS meetings.
     # button:
@@ -83,8 +81,6 @@ education:
     date_start: '2016-09-07'
     date_end: '2019-08-16'
     summary: |
-      GPA: 3.791/4.000
-
       Developed a computational model using a leapfrog integration scheme to simulate the orbit of dense molecular gas around our galaxy’s central supermassive black hole (SMBH). Built a Bayesian analysis pipeline to fit the model to observational data, estimating the gas passes within ∼ 5 lightyears of the SMBH. Demonstrated expertise in algorithm development, statistical modeling, and data analysis.
 
       Selected coursework:
@@ -97,7 +93,7 @@ education:
     date_start: '2010-10-04'
     date_end: '2014-06-12'
     summary: |
-      GPA: 2.945/4.000
+    
 
 work:
   - position: Visiting Assistant in Research
